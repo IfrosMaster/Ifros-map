@@ -1,0 +1,52 @@
+[
+{
+  "name": "Jomana Abdelmoaty",
+  "country": "Egypt",
+  "coordinates": [
+    30.023829,
+    31.7549459
+  ],
+  "photo": "data/images/IFROS/IFROS 1/Jomana-Abdelmoaty.jpg",
+  "info": "Freelance Robotics and Computer Vision Engineer",
+  "linkedin": "https://www.linkedin.com/in/jomanaashraf/",
+  "program": "IFROS 1"
+},
+{
+  "name": "Rahaf Abu Hara",
+  "country": "jordan",
+  "coordinates": [
+    31.9515694,
+    35.9239625
+  ],
+  "photo": "data/images/IFROS/IFROS 1/Rahaf-Abu-hara.jpg",
+  "info": "PhD Student at Heriot-Watt Dubai",
+  "linkedin": "https://www.linkedin.com/in/rahaf-abu-hara-0858881a5/",
+  "program": "IFROS 1"
+},
+{
+  "name": "Jesús Enrique Alemán Gallegos",
+  "country": "MEXICO",
+  "coordinates": [
+    19.4326296,
+    -99.1331785
+  ],
+  "photo": "data/images/IFROS/IFROS 1/Jesus-Enrique-Aleman-Gallegos.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/jeag1235/",
+  "program": "IFROS 1"
+},
+{
+  "name": "Ahmad Alrashed",
+  "country": "EGYPT",
+  "coordinates": [
+    30.023829,
+    31.7549459
+  ],
+  "photo": "data/images/IFROS/IFROS 1/Ahmad-Alrashed.jpg",
+  "info": "Senior Robotics Engineer",
+  "linkedin": "https://www.linkedin.com/in/ahmadalrashed/",
+  "program": "IFROS 1"
+}
+
+  
+  ]
