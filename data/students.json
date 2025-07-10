@@ -46,7 +46,266 @@
   "info": "Senior Robotics Engineer",
   "linkedin": "https://www.linkedin.com/in/ahmadalrashed/",
   "program": "IFROS 1"
-}
+},
+{
+  "name": "David Changoluisa",
+  "country": "Ecuador",
+  "coordinates": [
+    -3.48444,
+    -80.2257543
+  ],
+  "photo": "",
+  "info": "MSc. in Field Robotics | UAS Pilot and Instructor",
+  "linkedin": "https://www.linkedin.com/in/david-changoluisa-411678155/",
+  "program": "IFROS 1"
+},
+{
+  "name": "Bruk Gebregziabher",
+  "country": "ETHIOPIA",
+  "coordinates": [
+    11.5913676,
+    37.3900043
+  ],
+  "photo": "",
+  "info": "Senior Robotics and AI Engineer",
+  "linkedin": "https://www.linkedin.com/in/bruk-g/",
+  "program": "IFROS 1"
+},
+{
+  "name": "Vsevolod Hulchuk",
+  "country": "UKRAINE",
+  "coordinates": [
+    47.8108662,
+    31.219312
+  ],
+  "photo": "",
+  "info": "PhD researcher in robotic SLAM, exploring sensor fusion and patterns in real-world chaos.",
+  "linkedin": "https://www.linkedin.com/in/vsevolod-hulchuk/",
+  "program": "IFROS 1"
+},
+{
+  "name": "Mahmuda Rawnak Jahan",
+  "country": "BANGLADESH",
+  "coordinates": [
+    23.7643863,
+    90.3890144
+  ],
+  "photo": "",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/mahmuda-rawnak-jahan-43777b191/",
+  "program": "IFROS 1"
+},
+{
+  "name": "Jad Mansour",
+  "country": "LEBANON",
+  "coordinates": [
+    33.2764787,
+    35.2287631
+  ],
+  "photo": "",
+  "info": "PhD Candidate in Spiking Neural Networks for Underwater Computer Vision Applications",
+  "linkedin": "https://www.linkedin.com/in/jad-mansour-a12025137/",
+  "program": "IFROS 1"
+},
+{
+  "name": "Muhammad Umar",
+  "country": "PAKISTAN",
+  "coordinates": [
+    34.0336686,
+    72.4822324
+  ],
+  "photo": "",
+  "info": "Robotics Software Engineer | Paltech Robotics",
+  "linkedin": "https://www.linkedin.com/in/muhammadumar559/",
+  "program": "IFROS 1"
+},
+{
+  "name": "Nafees Bin Zaman",
+  "country": "MALAYSIA",
+  "coordinates": [
+    3.108683,
+    101.6421438
+  ],
+  "photo": "",
+  "info": "Software Engineer at Physiotherapie Mobili",
+  "linkedin": "https://www.linkedin.com/in/nafeesbinzaman/",
+  "program": "IFROS 1"
+},
+{
+  "name": "Esra Hicret Uzer",
+  "country": "TURKEY",
+  "coordinates": [
+    41.006381,
+    28.9758715
+  ],
+  "photo": "",
+  "info": "Ph.D. Candidate in Control Engineering | MSc. Intelligent Field Robotics System | BSc. Automotive Engineering",
+  "linkedin": "https://www.linkedin.com/in/esrahu/",
+  "program": "IFROS 1"
+},
+{
+  "name": "Alaaeddine EL Masri El Chaarani",
+  "country": "LEBANON",
+  "coordinates": [
+    33.2764787,
+    35.2287631
+  ],
+  "photo": "",
+  "info": "Doctoral Student In Underwater Robotics Systems",
+  "linkedin": "https://www.linkedin.com/in/alaaeddine-el-masri-el-chaarani/",
+  "program": "IFROS 1"
+},
 
-  
+
+
+
+
+
+
+
+
+{
+  "name": "Million Angesom",
+  "country": "Eritrea",
+  "coordinates": [
+    15.3389667,
+    38.9326763
+  ],
+  "photo": "",
+  "info": "Aspiring Robotics Professional & Master’s Scholar | Passionate About UAV & SLAM Technologies | Exploring AI, Machine Learning, Robot Manipulation & Motion Planning",
+  "linkedin": "https://www.linkedin.com/in/million-angesom-101b571a1/",
+  "program": "IFROS 2"
+},
+{
+  "name": "Nada Abbas",
+  "country": "Egypt",
+  "coordinates": [
+    30.023829,
+    31.7549459
+  ],
+  "photo": "",
+  "info": "Senior AI developer @ Avemoy",
+  "linkedin": "https://www.linkedin.com/in/nada-abbas-99n/",
+  "program": "IFROS 2"
+},
+{
+  "name": "Preeti Verma",
+  "country": "India",
+  "coordinates": [
+    19.054999,
+    72.8692035
+  ],
+  "photo": "",
+  "info": "Data Science Researcher at , MICELab, University of Girona || Master in Intelligent Field Robotics Systems (Erasmus+ Scholar) | Former AI Research Intern @ UB, Spain",
+  "linkedin": "https://www.linkedin.com/in/preetisnno/",
+  "program": "IFROS 2"
+},
+{
+  "name": "Syed Mazhar",
+  "country": "india",
+  "coordinates": [
+    28.6138954,
+    77.2090057
+  ],
+  "photo": "",
+  "info": "Robotics Software Engineer",
+  "linkedin": "https://www.linkedin.com/in/syed-mazhar1999/",
+  "program": "IFROS 2"
+},
+{
+  "name": "Huy Hoang(Eric) Nguyen",
+  "country": "Vietnam",
+  "coordinates": [
+    21.0253891,
+    105.8412249
+  ],
+  "photo": "",
+  "info": "Junior Scientist at AIT Austrian Institute of Technology | PhD student",
+  "linkedin": "https://www.linkedin.com/in/huy-hoang-eric-nguyen-6b0653199/",
+  "program": "IFROS 2"
+},
+{
+  "name": "Mohsin Kabir",
+  "country": "Bangladesh",
+  "coordinates": [
+    22.6839448,
+    91.789139
+  ],
+  "photo": "",
+  "info": "PhD Researcher, CS | EMJ Masters, IFRoS || MDU, Sweden | Alumnus UdG, Spain & ELTE, Hungary | Member, IEEE",
+  "linkedin": "https://www.linkedin.com/in/mohsinkabir-ai/",
+  "program": "IFROS 2"
+},
+{
+  "name": "Joseph Adeola",
+  "country": "Nigeria",
+  "coordinates": [
+    8.1313006,
+    3.510431
+  ],
+  "photo": "",
+  "info": "AI Engineer | Robotics Software Developer | Erasmus Mundus Scholar '22",
+  "linkedin": "https://www.linkedin.com/in/adeola-joseph/",
+  "program": "IFROS 2"
+},
+{
+  "name": "Muhammad Awais",
+  "country": "PAKISTAN",
+  "coordinates": [
+    34.0336686,
+    72.4822324
+  ],
+  "photo": "",
+  "info": "Robotics Software developer | ADAS",
+  "linkedin": "https://www.linkedin.com/in/muhammad-awais-a723111aa/",
+  "program": "IFROS 2"
+},
+{
+  "name": "Khawaja Ghulam Alamdar",
+  "country": "PAKISTAN",
+  "coordinates": [
+    34.0336686,
+    72.4822324
+  ],
+  "photo": "",
+  "info": "Robotics Researcher @ FER, Zagreb",
+  "linkedin": "https://www.linkedin.com/in/khalamdar/",
+  "program": "IFROS 2"
+},
+{
+  "name": "Željko Jovanović",
+  "country": "Serbia",
+  "coordinates": [
+    44.8178131,
+    20.4568974
+  ],
+  "photo": "",
+  "info": "Master Engineer in Intelligent Field Robotic Systems / Automation Engineer",
+  "linkedin": "https://www.linkedin.com/in/%C5%BEeljko-jovanovi%C4%87-3b6896285/",
+  "program": "IFROS 2"
+},
+{
+  "name": "Moses Ebere",
+  "country": "Nigeria",
+  "coordinates": [
+    8.1313006,
+    3.510431
+  ],
+  "photo": "",
+  "info": "PhD Candidate in Cognitive Robotics",
+  "linkedin": "https://www.linkedin.com/in/moses-chuka-ebere/",
+  "program": "IFROS 2"
+},
+{
+  "name": "Amine Dhemaied",
+  "country": "Tunisia",
+  "coordinates": [
+    36.8002068,
+    10.1857757
+  ],
+  "photo": "",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/amine-dhemaied-7b948015b/",
+  "program": "IFROS 2"
+}
   ]
