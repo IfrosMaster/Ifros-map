@@ -6,43 +6,43 @@
     30.023829,
     31.7549459
   ],
-  "photo": "data/images/IFROS/IFROS 1/Jomana-Abdelmoaty.jpg",
+  "photo": "data/images/IFROS/IFROS 1/8.jpg",
   "info": "Freelance Robotics and Computer Vision Engineer",
   "linkedin": "https://www.linkedin.com/in/jomanaashraf/",
   "program": "IFROS 1"
 },
 {
   "name": "Rahaf Abu Hara",
-  "country": "jordan",
+  "country": "Jordan",
   "coordinates": [
     31.9515694,
     35.9239625
   ],
-  "photo": "data/images/IFROS/IFROS 1/Rahaf-Abu-hara.jpg",
+  "photo": "data/images/IFROS/IFROS 1/12.jpg",
   "info": "PhD Student at Heriot-Watt Dubai",
   "linkedin": "https://www.linkedin.com/in/rahaf-abu-hara-0858881a5/",
   "program": "IFROS 1"
 },
 {
   "name": "Jesús Enrique Alemán Gallegos",
-  "country": "MEXICO",
+  "country": "Mexico",
   "coordinates": [
     19.4326296,
     -99.1331785
   ],
-  "photo": "data/images/IFROS/IFROS 1/Jesus-Enrique-Aleman-Gallegos.jpg",
+  "photo": "data/images/IFROS/IFROS 1/7.jpg",
   "info": "",
   "linkedin": "https://www.linkedin.com/in/jeag1235/",
   "program": "IFROS 1"
 },
 {
   "name": "Ahmad Alrashed",
-  "country": "EGYPT",
+  "country": "Egypt",
   "coordinates": [
     30.023829,
     31.7549459
   ],
-  "photo": "data/images/IFROS/IFROS 1/Ahmad-Alrashed.jpg",
+  "photo": "data/images/IFROS/IFROS 1/1.jpg",
   "info": "Senior Robotics Engineer",
   "linkedin": "https://www.linkedin.com/in/ahmadalrashed/",
   "program": "IFROS 1"
@@ -54,103 +54,103 @@
     -3.48444,
     -80.2257543
   ],
-  "photo": "",
+  "photo": "data/images/IFROS/IFROS 1/5.jpg",
   "info": "MSc. in Field Robotics | UAS Pilot and Instructor",
   "linkedin": "https://www.linkedin.com/in/david-changoluisa-411678155/",
   "program": "IFROS 1"
 },
 {
   "name": "Bruk Gebregziabher",
-  "country": "ETHIOPIA",
+  "country": "Ethiopia",
   "coordinates": [
     11.5913676,
     37.3900043
   ],
-  "photo": "",
+  "photo": "data/images/IFROS/IFROS 1/3.jpg",
   "info": "Senior Robotics and AI Engineer",
   "linkedin": "https://www.linkedin.com/in/bruk-g/",
   "program": "IFROS 1"
 },
 {
   "name": "Vsevolod Hulchuk",
-  "country": "UKRAINE",
+  "country": "Ukraine",
   "coordinates": [
     47.8108662,
     31.219312
   ],
-  "photo": "",
+  "photo": "data/images/IFROS/IFROS 1/14.jpg",
   "info": "PhD researcher in robotic SLAM, exploring sensor fusion and patterns in real-world chaos.",
   "linkedin": "https://www.linkedin.com/in/vsevolod-hulchuk/",
   "program": "IFROS 1"
 },
 {
   "name": "Mahmuda Rawnak Jahan",
-  "country": "BANGLADESH",
+  "country": "Bangladesh",
   "coordinates": [
     23.7643863,
     90.3890144
   ],
-  "photo": "",
+  "photo": "data/images/IFROS/IFROS 1/9.jpg",
   "info": "",
   "linkedin": "https://www.linkedin.com/in/mahmuda-rawnak-jahan-43777b191/",
   "program": "IFROS 1"
 },
 {
   "name": "Jad Mansour",
-  "country": "LEBANON",
+  "country": "Lebanon",
   "coordinates": [
     33.2764787,
     35.2287631
   ],
-  "photo": "",
+  "photo": "data/images/IFROS/IFROS 1/6.jpg",
   "info": "PhD Candidate in Spiking Neural Networks for Underwater Computer Vision Applications",
   "linkedin": "https://www.linkedin.com/in/jad-mansour-a12025137/",
   "program": "IFROS 1"
 },
 {
   "name": "Muhammad Umar",
-  "country": "PAKISTAN",
+  "country": "Pakistan",
   "coordinates": [
     34.0336686,
     72.4822324
   ],
-  "photo": "",
+  "photo": "data/images/IFROS/IFROS 1/11.jpg",
   "info": "Robotics Software Engineer | Paltech Robotics",
   "linkedin": "https://www.linkedin.com/in/muhammadumar559/",
   "program": "IFROS 1"
 },
 {
   "name": "Nafees Bin Zaman",
-  "country": "MALAYSIA",
+  "country": "Malysia",
   "coordinates": [
     3.108683,
     101.6421438
   ],
-  "photo": "",
+  "photo": "data/images/IFROS/IFROS 1/10.jpg",
   "info": "Software Engineer at Physiotherapie Mobili",
   "linkedin": "https://www.linkedin.com/in/nafeesbinzaman/",
   "program": "IFROS 1"
 },
 {
   "name": "Esra Hicret Uzer",
-  "country": "TURKEY",
+  "country": "Turkey",
   "coordinates": [
     41.006381,
     28.9758715
   ],
-  "photo": "",
+  "photo": "data/images/IFROS/IFROS 1/4.jpg",
   "info": "Ph.D. Candidate in Control Engineering | MSc. Intelligent Field Robotics System | BSc. Automotive Engineering",
   "linkedin": "https://www.linkedin.com/in/esrahu/",
   "program": "IFROS 1"
 },
 {
   "name": "Alaaeddine EL Masri El Chaarani",
-  "country": "LEBANON",
+  "country": "Lebanon",
   "coordinates": [
     33.2764787,
     35.2287631
   ],
-  "photo": "",
+  "photo": "data/images/IFROS/IFROS 1/2.jpg",
   "info": "Doctoral Student In Underwater Robotics Systems",
   "linkedin": "https://www.linkedin.com/in/alaaeddine-el-masri-el-chaarani/",
   "program": "IFROS 1"
@@ -171,7 +171,7 @@
     15.3389667,
     38.9326763
   ],
-  "photo": "",
+  "photo": "data/images/IFROS/IFROS 2/26.jpg",
   "info": "Aspiring Robotics Professional & Master’s Scholar | Passionate About UAV & SLAM Technologies | Exploring AI, Machine Learning, Robot Manipulation & Motion Planning",
   "linkedin": "https://www.linkedin.com/in/million-angesom-101b571a1/",
   "program": "IFROS 2"
@@ -183,7 +183,7 @@
     30.023829,
     31.7549459
   ],
-  "photo": "",
+  "photo": "data/images/IFROS/IFROS 2/29.jpg",
   "info": "Senior AI developer @ Avemoy",
   "linkedin": "https://www.linkedin.com/in/nada-abbas-99n/",
   "program": "IFROS 2"
@@ -195,7 +195,7 @@
     19.054999,
     72.8692035
   ],
-  "photo": "",
+  "photo": "data/images/IFROS/IFROS 2/31.jpg",
   "info": "Data Science Researcher at , MICELab, University of Girona || Master in Intelligent Field Robotics Systems (Erasmus+ Scholar) | Former AI Research Intern @ UB, Spain",
   "linkedin": "https://www.linkedin.com/in/preetisnno/",
   "program": "IFROS 2"
@@ -207,7 +207,7 @@
     28.6138954,
     77.2090057
   ],
-  "photo": "",
+  "photo": "data/images/IFROS/IFROS 2/32.jpg",
   "info": "Robotics Software Engineer",
   "linkedin": "https://www.linkedin.com/in/syed-mazhar1999/",
   "program": "IFROS 2"
@@ -219,7 +219,7 @@
     21.0253891,
     105.8412249
   ],
-  "photo": "",
+  "photo": "data/images/IFROS/IFROS 2/30.jpg",
   "info": "Junior Scientist at AIT Austrian Institute of Technology | PhD student",
   "linkedin": "https://www.linkedin.com/in/huy-hoang-eric-nguyen-6b0653199/",
   "program": "IFROS 2"
@@ -231,7 +231,7 @@
     22.6839448,
     91.789139
   ],
-  "photo": "",
+  "photo": "data/images/IFROS/IFROS 2/25.jpg",
   "info": "PhD Researcher, CS | EMJ Masters, IFRoS || MDU, Sweden | Alumnus UdG, Spain & ELTE, Hungary | Member, IEEE",
   "linkedin": "https://www.linkedin.com/in/mohsinkabir-ai/",
   "program": "IFROS 2"
@@ -243,31 +243,31 @@
     8.1313006,
     3.510431
   ],
-  "photo": "",
+  "photo": "data/images/IFROS/IFROS 2/22.jpg",
   "info": "AI Engineer | Robotics Software Developer | Erasmus Mundus Scholar '22",
   "linkedin": "https://www.linkedin.com/in/adeola-joseph/",
   "program": "IFROS 2"
 },
 {
   "name": "Muhammad Awais",
-  "country": "PAKISTAN",
+  "country": "Pakistan",
   "coordinates": [
     34.0336686,
     72.4822324
   ],
-  "photo": "",
+  "photo": "data/images/IFROS/IFROS 2/28.jpg",
   "info": "Robotics Software developer | ADAS",
   "linkedin": "https://www.linkedin.com/in/muhammad-awais-a723111aa/",
   "program": "IFROS 2"
 },
 {
   "name": "Khawaja Ghulam Alamdar",
-  "country": "PAKISTAN",
+  "country": "Pakistan",
   "coordinates": [
     34.0336686,
     72.4822324
   ],
-  "photo": "",
+  "photo": "data/images/IFROS/IFROS 2/23.jpg",
   "info": "Robotics Researcher @ FER, Zagreb",
   "linkedin": "https://www.linkedin.com/in/khalamdar/",
   "program": "IFROS 2"
@@ -279,7 +279,7 @@
     44.8178131,
     20.4568974
   ],
-  "photo": "",
+  "photo": "data/images/IFROS/IFROS 2/33.jpg",
   "info": "Master Engineer in Intelligent Field Robotic Systems / Automation Engineer",
   "linkedin": "https://www.linkedin.com/in/%C5%BEeljko-jovanovi%C4%87-3b6896285/",
   "program": "IFROS 2"
@@ -291,7 +291,7 @@
     8.1313006,
     3.510431
   ],
-  "photo": "",
+  "photo": "data/images/IFROS/IFROS 2/27.jpg",
   "info": "PhD Candidate in Cognitive Robotics",
   "linkedin": "https://www.linkedin.com/in/moses-chuka-ebere/",
   "program": "IFROS 2"
@@ -303,9 +303,522 @@
     36.8002068,
     10.1857757
   ],
-  "photo": "",
+  "photo": "data/images/IFROS/IFROS 2/20.jpg",
   "info": "",
   "linkedin": "https://www.linkedin.com/in/amine-dhemaied-7b948015b/",
   "program": "IFROS 2"
+},
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name": "ATHARVA PATWE",
+  "country": "India",
+  "coordinates": [
+    28.6138954,
+    77.2090057
+  ],
+  "photo": "data/images/IFROS/IFROS 3/40.jpg",
+  "info": "Master's Thesis in RL for Humanoids @ NEURA Robotics | MS in Robotics @ Erasmus Mundus Scholarship Programme | BTech in Mechanical Engineering",
+  "linkedin": "https://www.linkedin.com/in/patweatharva/",
+  "program": "IFROS 3"
+},
+{
+  "name": "David Razhiel Ceres Arroyo",
+  "country": "Mexico",
+  "coordinates": [
+    19.4326296,
+    -99.1331785
+  ],
+  "photo": "data/images/IFROS/IFROS 3/41.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/david-razhiel-ceres-arroyo/",
+  "program": "IFROS"
+},
+{
+  "name": "Eliyas kidanemariam",
+  "country": "Ethiopia",
+  "coordinates": [
+    11.5913676,
+    37.3900043
+  ],
+  "photo": "data/images/IFROS/IFROS 3/42.jpg",
+  "info": "",
+  "linkedin": "",
+  "program": "IFROS 3"
+},
+{
+  "name": "Fatima Yousif",
+  "country": "Pakistan",
+  "coordinates": [
+    34.0336686,
+    72.4822324
+  ],
+  "photo": "data/images/IFROS/IFROS 3/43.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/fatima-yousif/",
+  "program": "IFROS 3"
+},
+{
+  "name": "Goitom Abrha Leaku",
+  "country": "Ethiopia",
+  "coordinates": [
+    11.5913676,
+    37.3900043
+  ],
+  "photo": "data/images/IFROS/IFROS 3/49.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/goitom-a-78729821b/",
+  "program": "IFROS 3"
+},
+{
+  "name": "Lisa Magoti",
+  "country": "Tanzania",
+  "coordinates": [
+    -2.8901484,
+    36.5364224
+  ],
+  "photo": "data/images/IFROS/IFROS 3/48.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/lisa-magoti-65bb90321/",
+  "program": "IFROS 3"
+},
+{
+  "name": "Liviu Daniel Florescu",
+  "country": "Romania",
+  "coordinates": [
+    44.9235352,
+    26.0356862
+  ],
+  "photo": "data/images/IFROS/IFROS 3/44.jpg",
+  "info": "Machine Vision Engineer",
+  "linkedin": "https://www.linkedin.com/in/liviu-florescu/",
+  "program": "IFROS 3"
+},
+{
+  "name": "Mir Mohibullah Sazid",
+  "country": "Bangladesh",
+  "coordinates": [
+    22.6839448,
+    91.789139
+  ],
+  "photo": "data/images/IFROS/IFROS 3/46.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/mir-mohibullah-sazid-a2ba80194/",
+  "program": "IFROS 3"
+},
+{
+  "name": "Mohamed Khaled",
+  "country": "Egypt",
+  "coordinates": [
+    30.023829,
+    31.7549459
+  ],
+  "photo": "data/images/IFROS/IFROS 3/50.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/moha-khaled/",
+  "program": "IFROS 3"
+},
+{
+  "name": "Precious Philip-Ifabiyi",
+  "country": "Nigeria",
+  "coordinates": [
+    8.1313006,
+    3.510431
+  ],
+  "photo": "data/images/IFROS/IFROS 3/60.png",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/precious-philip-ifabiyi/",
+  "program": "IFROS 3"
+},
+{
+  "name": "Renatto Tommasi Hernández",
+  "country": "Mexico",
+  "coordinates": [
+    19.4326296,
+    -99.1331785
+  ],
+  "photo": "data/images/IFROS/IFROS 3/53.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/rtommasi/",
+  "program": "IFROS 3"
+},
+{
+  "name": "Sawera Yaseen",
+  "country": "Pakistan",
+  "coordinates": [
+    34.0336686,
+    72.4822324
+  ],
+  "photo": "data/images/IFROS/IFROS 3/47.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/sawera-yaseen-7482bb1b6/",
+  "program": "IFROS 3"
+},
+{
+  "name": "Selin Yavuz",
+  "country": "Turkey",
+  "coordinates": [
+    41.006381,
+    28.9758715
+  ],
+  "photo": "data/images/IFROS/IFROS 3/55.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/selin-yavuz-5999a116b/",
+  "program": "IFROS 3"
+},
+{
+  "name": "Syma Afsha",
+  "country": "Bangladesh",
+  "coordinates": [
+    22.6839448,
+    91.789139
+  ],
+  "photo": "data/images/IFROS/IFROS 3/56.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/syma-afsha/",
+  "program": "IFROS 3"
+},
+{
+  "name": "Tanakrit Lertcompeesin",
+  "country": "Thailand",
+  "coordinates": [
+    13.7594744,
+    100.575814
+  ],
+  "photo": "data/images/IFROS/IFROS 3/57.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/tanakrit-lertcompeesin-391450217/",
+  "program": "IFROS 3"
+},
+{
+  "name": "Thanh Loc Pham",
+  "country": "Vietnam",
+  "coordinates": [
+    21.0253891,
+    105.8412249
+  ],
+  "photo": "data/images/IFROS/IFROS 3/45.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/loc-thanh-pham/",
+  "program": "IFROS 3"
+},
+{
+  "name": "Vania Katherine Mulia",
+  "country": "Indonesia",
+  "coordinates": [
+    -8.1153337,
+    115.1083287
+  ],
+  "photo": "data/images/IFROS/IFROS 3/58.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/vaniakmulia/",
+  "program": "IFROS 3"
+},
+{
+  "name": "Zewdie Habtie Sisay",
+  "country": "Ethiopia",
+  "coordinates": [
+    11.5913676,
+    37.3900043
+  ],
+  "photo": "data/images/IFROS/IFROS 3/59.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/zewdiehabtie/",
+  "program": "IFROS 3"
+},
+
+
+
+
+
+
+
+
+
+
+{
+  "name": "BILAL AHMED",
+  "country": "Pakistan",
+  "coordinates": [
+    29.1384614,
+    70.4914365
+  ],
+  "photo": "data/images/IFROS/IFROS 4/71.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/bilal131/",
+  "program": "IFROS 4"
+},
+{
+  "name": "Carlos Antonio Pazos Reyes",
+  "country": "Mexico",
+  "coordinates": [
+    19.4326296,
+    -99.1331785
+  ],
+  "photo": "data/images/IFROS/IFROS 4/72.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/carlosapr/",
+  "program": "IFROS 4"
+},
+{
+  "name": "DEBORAH (ELE-OJO) DANJUMA",
+  "country": "Nigeria",
+  "coordinates": [
+    8.1313006,
+    3.510431
+  ],
+  "photo": "data/images/IFROS/IFROS 4/74.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/deborahdanjuma/",
+  "program": "IFROS 4"
+},
+{
+  "name": "Gebrecherkos Gebrezgabhier",
+  "country": "Ethiopia",
+  "coordinates": [
+    11.5913676,
+    37.3900043
+  ],
+  "photo": "data/images/IFROS/IFROS 4/75.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/chereg/",
+  "program": "IFROS 4"
+},
+{
+  "name": "Hamza Benzagur El Moudden",
+  "country": "Spain",
+  "coordinates": [
+    39.9372616,
+    -0.1004465
+  ],
+  "photo": "data/images/IFROS/IFROS 4/76.jpg",
+  "info": "Industrial Technologies Engineer",
+  "linkedin": "https://www.linkedin.com/in/hamza-benzagur-el-moudden-/",
+  "program": "IFROS 4"
+},
+{
+  "name": "Hariram Sampath Kumar",
+  "country": "India",
+  "coordinates": [
+    19.054999,
+    72.8692035
+  ],
+  "photo": "data/images/IFROS/IFROS 4/77.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/hariram-sampath-kumar/",
+  "program": "IFROS 4"
+},
+{
+  "name": "Ibrahim Ibrahim",
+  "country": "Yemen",
+  "coordinates": [
+    15.268007,
+    42.583216
+  ],
+  "photo": "data/images/IFROS/IFROS 4/78.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/ibrahimplus/",
+  "program": "IFROS 4"
+},
+{
+  "name": "Jamin Rahman Jim",
+  "country": "Bangladesh",
+  "coordinates": [
+    22.6839448,
+    91.789139
+  ],
+  "photo": "data/images/IFROS/IFROS 4/79.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/jaminjim/",
+  "program": "IFROS 4"
+},
+{
+  "name": "Joel Alarcón Ocaña",
+  "country": "Spain",
+  "coordinates": [
+    41.9793006,
+    2.8199439
+  ],
+  "photo": "data/images/IFROS/IFROS 4/80.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/joel-alarc%C3%B3n-oca%C3%B1a-7b25b6116/",
+  "program": "IFROS 4"
+},
+{
+  "name": "Johanna Marie Failing",
+  "country": "Germany",
+  "coordinates": [
+    52.510885,
+    13.3989367
+  ],
+  "photo": "data/images/IFROS/IFROS 4/81.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/johanna-marie-failing-957a021a6/",
+  "program": "IFROS 4"
+},
+{
+  "name": "Lorenz Killer",
+  "country": "Austria",
+  "coordinates": [
+    47.0708678,
+    15.4382786
+  ],
+  "photo": "data/images/IFROS/IFROS 4/82.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/lorenz-killer-b3901a270/",
+  "program": "IFROS 4"
+},
+{
+  "name": "Mazen Elgabalawy",
+  "country": "Egypt",
+  "coordinates": [
+    30.0443879,
+    31.2357257
+  ],
+  "photo": "data/images/IFROS/IFROS 4/83.jpg",
+  "info": "Mechatronics and Robotics Engineer",
+  "linkedin": "https://www.linkedin.com/in/mazen-elgabalawy-364363ba/",
+  "program": "IFROS 4"
+},
+{
+  "name": "Muhammad Faran Akram",
+  "country": "Pakistan",
+  "coordinates": [
+    34.0336686,
+    72.4822324
+  ],
+  "photo": "data/images/IFROS/IFROS 4/84.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/mfaran/",
+  "program": "IFROS 4"
+},
+{
+  "name": "Pravin Rudip Oli",
+  "country": "Nepal",
+  "coordinates": [
+    28.1470239,
+    84.2657597
+  ],
+  "photo": "data/images/IFROS/IFROS 4/92.jpg",
+  "info": "Bachelors in mechanical Engineering",
+  "linkedin": "https://www.linkedin.com/in/pravin-oli-2851662ab/",
+  "program": "IFROS 4"
+},
+{
+  "name": "Priyam Gupta",
+  "country": "India",
+  "coordinates": [
+    28.6138954,
+    77.2090057
+  ],
+  "photo": "data/images/IFROS/IFROS 4/85.jpg",
+  "info": "Mechatronics and Automation Engineerining",
+  "linkedin": "https://www.linkedin.com/in/priyam-gupta-5777b3190/",
+  "program": "IFROS 4"
+},
+{
+  "name": "Raúl López Musito",
+  "country": "Mexico",
+  "coordinates": [
+    19.4326296,
+    -99.1331785
+  ],
+  "photo": "data/images/IFROS/IFROS 4/86.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/raullopezmusito/",
+  "program": "IFROS 4"
+},
+{
+  "name": "Rihab Laroussi",
+  "country": "Morocco",
+  "coordinates": [
+    34.0218454,
+    -6.8408929
+  ],
+  "photo": "data/images/IFROS/IFROS 4/87.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/rihab-laroussi-0011b9209/",
+  "program": "IFROS 4"
+},
+{
+  "name": "Sherif Sameh Adly Samy",
+  "country": "Egypt",
+  "coordinates": [
+    30.0443879,
+    31.2357257
+  ],
+  "photo": "data/images/IFROS/IFROS 4/88.jpg",
+  "info": "B.Sc. in Mechatronics Engineering",
+  "linkedin": "https://www.linkedin.com/in/sherif-sameh-adly-samy-10969521a/",
+  "program": "IFROS 4"
+},
+{
+  "name": "Solomon Chibuzo Nwafor",
+  "country": "Nigeria",
+  "coordinates": [
+    6.4499833,
+    7.5000007
+  ],
+  "photo": "data/images/IFROS/IFROS 4/89.jpg",
+  "info": "Mechanical Engineer",
+  "linkedin": "https://www.linkedin.com/in/solomon-chibuzo-nwafor/",
+  "program": "IFROS 4"
+},
+{
+  "name": "Thi Tran",
+  "country": "Vietnam",
+  "coordinates": [
+    21.0253891,
+    105.8412249
+  ],
+  "photo": "data/images/IFROS/IFROS 4/90.jpg",
+  "info": "Software Engineer",
+  "linkedin": "https://www.linkedin.com/in/thi-tran-217824203/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+  "program": "IFROS 4"
+},
+{
+  "name": "Yunying Chen",
+  "country": "China",
+  "coordinates": [
+    32.1745288,
+    112.1608512
+  ],
+  "photo": "data/images/IFROS/IFROS 4/91.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/yunying-chen/",
+  "program": "IFROS 4"
+},
+{
+  "name": "Davina Sanghera",
+  "country": "uk",
+  "coordinates": [
+    52.4796992,
+    -1.9026911
+  ],
+  "photo": "data/images/IFROS/IFROS 4/73.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/davina-sanghera-56215a25a/",
+  "program": "IFROS 4"
+},
+{
+  "name": "Samantha Caballero",
+  "country": "Mexico",
+  "coordinates": [
+    19.4326296,
+    -99.1331785
+  ],
+  "photo": "data/images/IFROS/IFROS 4/70.jpg",
+  "info": "",
+  "linkedin": "https://www.linkedin.com/in/samantha-caballero/",
+  "program": "IFROS 4"
 }
   ]
