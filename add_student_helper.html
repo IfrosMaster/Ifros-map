@@ -56,6 +56,8 @@
         <option value="IFROS 2">IFROS 2</option>
         <option value="IFROS 3">IFROS 3</option>
         <option value="IFROS 4">IFROS 4</option>
+        <option value="IFROS 5">IFROS 5</option>
+        <option value="IFROS 6">IFROS 6</option>
     </select>
 
     <label for="photo">Photo Filename (e.g., JaneDoe.jpg):</label>
@@ -131,8 +133,13 @@
             if (photoFilename) {
                 // Construct photo path based on program
                 
-                const programFolder = program === "IFROS" ? "IFROS " : program;
-                photoPath = `data/images/${programFolder}/${photoFilename}`;
+            if (photoFilename) {
+            const [programRoot] = program.split(" "); // e.g., "MIRS" or "IFROS"
+            const folderPath = `data/images/${programRoot}/${program}`; // e.g., data/images/MIRS/MIRS 4
+            photoPath = `${folderPath}/${photoFilename}`;
+}
+
+
             }
 
             const studentEntry = {
