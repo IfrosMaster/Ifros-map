@@ -820,5 +820,155 @@
   "info": "Bachelor in Robotics and Digital Systems Engineering",
   "linkedin": "https://www.linkedin.com/in/samantha-caballero/",
   "program": "IFROS 4"
+},
+
+
+
+
+
+
+{
+  "name": "Alvaro Camara Guerra",
+  "country": "Mexico",
+  "coordinates": [25.6802, -100.3153],
+  "photo": "data/images/IFROS/IFROS 5/Camara Guerra.JPG",
+  "info": "Bachelor of Mechatronics Engineering",
+  "linkedin": "https://www.linkedin.com/in/alvaro-c%C3%A1mara/",
+  "program": "IFROS 5"
+},
+{
+  "name": "Aritra Das",
+  "country": "Bangladesh",
+  "coordinates": [23.2321, 90.6631],
+  "photo": "data/images/IFROS/IFROS 5/Das.JPG",
+  "info": "Bachelor of Science in Computer Science & Engineering",
+  "linkedin": "https://www.linkedin.com/in/aritra-das-87b0601b8/",
+  "program": "IFROS 5"
+},
+{
+  "name": "David Adrian Villanueva Guzmán",
+  "country": "Mexico",
+  "coordinates": [25.6802, -100.3153],
+  "photo": "data/images/IFROS/IFROS 5/Villanueva Guzmán.JPG",
+  "info": "Bachelor of Mechatronics Engineering",
+  "linkedin": "https://www.linkedin.com/in/david-adrian-villanueva-guzm%C3%A1n-071350246/",
+  "program": "IFROS 5"
+},
+{
+  "name": "Giang Nguyen",
+  "country": "Vietnam",
+  "coordinates": [21.0285, 105.8542],
+  "photo": "data/images/IFROS/IFROS 5/NguyenG.JPG",
+  "info": "Bachelor degree of Engineering in Mechatronics Engineer",
+  "linkedin": "https://www.linkedin.com/in/giang-nguyen-0033272aa/",
+  "program": "IFROS 5"
+},
+{
+  "name": "Huy Ba Quang Do",
+  "country": "Vietnam",
+  "coordinates": [21.0285, 105.8542],
+  "photo": "data/images/IFROS/IFROS 5/Do.JPG",
+  "info": "Bachelor degree of Control and Automation Engineering",
+  "linkedin": "https://www.linkedin.com/in/quanghuydoba/",
+  "program": "IFROS 5"
+},
+{
+  "name": "James Enrico Busato",
+  "country": "Italy",
+  "coordinates": [45.4642, 9.1900],
+  "photo": "data/images/IFROS/IFROS 5/Busato.JPG",
+  "info": "Bachelor degree in Engineering of Computer Systems",
+  "linkedin": "https://www.linkedin.com/in/james-busato-215700240/?originalSubdomain=it",
+  "program": "IFROS 5"
+},
+{
+  "name": "Jan Soler Marcelo",
+  "country": "Spain",
+  "coordinates": [41.3851, 2.1734],
+  "photo": "data/images/IFROS/IFROS 5/Soler Marcelo.JPG",
+  "info": "Bachelor degree in marine sciences and technologies",
+  "linkedin": "https://www.linkedin.com/in/jan-soler-marcelo-656014392/",
+  "program": "IFROS 5"
+},
+{
+  "name": "Jemima Niquen Tapia",
+  "country": "Spain",
+  "coordinates": [41.3851, 2.1734],
+  "photo": "data/images/IFROS/IFROS 5/Niquen Tapia.JPG",
+  "info": "Bachelor degree in Industrial Electronics and Automation Engineering",
+  "linkedin": "https://www.linkedin.com/in/jemima-niquen-tapia-687480257/",
+  "program": "IFROS 5"
+},
+{
+  "name": "Juan Diego Castillo Amaya",
+  "country": "Guatemala",
+  "coordinates": [14.6349, -90.5069],
+  "photo": "data/images/IFROS/IFROS 5/Castillo Amaya.JPG",
+  "info": "Bachelor degree in Mechatronics engineering",
+  "linkedin": "https://www.linkedin.com/in/juan-diego-castillo-amaya-1b6a5718a/",
+  "program": "IFROS 5"
+},
+{
+  "name": "Max Puig Sariñena",
+  "country": "Spain",
+  "coordinates": [40.6190, -0.1009],
+  "photo": "data/images/IFROS/IFROS 5/Puig Sariñena.JPG",
+  "info": "Bachelor degree in Intelligent Robotics",
+  "linkedin": "https://www.linkedin.com/in/max-puig-sari%C3%B1ena/",
+  "program": "IFROS 5"
+},
+{
+  "name": "Mohammad Haadi Akhter",
+  "country": "India",
+  "coordinates": [27.8937, 78.0883],
+  "photo": "data/images/IFROS/IFROS 5/Akhter.JPG",
+  "info": "Bachelor degree of Technology in Computer Engineering",
+  "linkedin": "https://www.linkedin.com/in/mohammad-haadi-akhter-756ab323a/",
+  "program": "IFROS 5"
+},
+{
+  "name": "Mostafa Ahmed",
+  "country": "Egypt",
+  "coordinates": [26.5592, 31.6957],
+  "photo": "data/images/IFROS/IFROS 5/Mostafa Ahmed.jpeg",
+  "info": "Bachelor degree in Mechatronics and Robotics Engineering",
+  "linkedin": "https://www.linkedin.com/in/mostafa-ahmed-8534141a7/",
+  "program": "IFROS 5"
+},
+{
+  "name": "Muhammad Yamin",
+  "country": "Pakistan",
+  "coordinates": [30.3017, 71.9271],
+  "photo": "data/images/IFROS/IFROS 5/YaminM.JPG",
+  "info": "Bachelor of Science in Computer Science",
+  "linkedin": "https://www.linkedin.com/in/myamin66/",
+  "program": "IFROS 5"
+},
+{
+  "name": "Phu Duc Nguyen",
+  "country": "Vietnam",
+  "coordinates": [10.7769, 106.7009],
+  "photo": "data/images/IFROS/IFROS 5/NguyenP.JPG",
+  "info": "Bachelor degree in Human-Centered Engineering",
+  "linkedin": "https://www.linkedin.com/in/ph%C3%BA-%C4%91%E1%BB%A9c-nguy%E1%BB%85n-39b7781a5/",
+  "program": "IFROS 5"
+},
+{
+  "name": "Praveen Kumar Murali",
+  "country": "India",
+  "coordinates": [11.0168, 76.9558],
+  "photo": "data/images/IFROS/IFROS 5/MuraliP.JPG",
+  "info": "Bachelor degree of Engineering in Mechatronics Engineer",
+  "linkedin": "https://www.linkedin.com/in/praveenkumarmpk/",
+  "program": "IFROS 5"
+},
+{
+  "name": "Vasutorn Siriyakorn",
+  "country": "Thailand",
+  "coordinates": [13.8234, 100.5630],
+  "photo": "data/images/IFROS/IFROS 5/SiriyakornV.JPG",
+  "info": "Bachelor of Engineering (Computer Engineering)",
+  "linkedin": "https://www.linkedin.com/in/v-siriyakorn/",
+  "program": "IFROS 5"
 }
   ]
