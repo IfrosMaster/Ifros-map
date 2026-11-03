@@ -970,5 +970,113 @@
   "info": "Bachelor of Engineering (Computer Engineering)",
   "linkedin": "https://www.linkedin.com/in/v-siriyakorn/",
   "program": "IFROS 5"
+},
+{
+  "name": "Alexa Jimena Gonzalez Lucio",
+  "country": "Mexico",
+  "coordinates": [20.5922997, -100.3917424],
+  "photo": "data/images/IFROS/IFROS 6/Alexa_Jimena.jpg",
+  "info": "Bachelor of Science in Robotics and Digital Systems",
+  "linkedin": "https://www.linkedin.com/in/alexa-jimena-gonz%C3%A1lez/",
+  "program": "IFROS 6"
+},
+{
+  "name": "Alice Matranga",
+  "country": "Italy",
+  "coordinates": [38.1112268, 13.3524434],
+  "photo": "data/images/IFROS/IFROS 6/Alice_Matranga.jpg",
+  "info": "Cybernetics-Mechatronics Engineering",
+  "linkedin": "https://www.linkedin.com/in/alice-matranga-589498132/",
+  "program": "IFROS 6"
+},
+{
+  "name": "Diego Marzá Fuertes",
+  "country": "Spain",
+  "coordinates": [39.8235837, -0.2316995],
+  "photo": "data/images/IFROS/IFROS 6/Diego_Marza_Spain.jpg",
+  "info": "Grau en Intel·ligència Robòtica",
+  "linkedin": "https://www.linkedin.com/in/diegomarza/",
+  "program": "IFROS 6"
+},
+{
+  "name": "Eanna Kennedy",
+  "country": "Ireland",
+  "coordinates": [52.3955671, -6.9446066],
+  "photo": "data/images/IFROS/IFROS 6/Eanna_Kennedy.jpg",
+  "info": "BSc Engineering Science",
+  "linkedin": "https://www.linkedin.com/in/eanna-kennedy/",
+  "program": "IFROS 6"
+},
+{
+  "name": "Mario López Honrubia",
+  "country": "Spain",
+  "coordinates": [39.8235837, -0.2316995],
+  "photo": "data/images/IFROS/IFROS 6/Mario_Lopez_Spain.jpg",
+  "info": "Enginyeria tècnica en informàtica",
+  "linkedin": "https://www.linkedin.com/in/mario-lopez-honrubia31/",
+  "program": "IFROS 6"
+},
+{
+  "name": "Miguel de Diego Pérez",
+  "country": "Spain",
+  "coordinates": [39.9860347, -0.0377354],
+  "photo": "data/images/IFROS/IFROS 6/Miguel_deDiego_Spain.jpg",
+  "info": "Enginyeria en informàtica",
+  "linkedin": "https://www.linkedin.com/in/miguel-de-diego-perez/",
+  "program": "IFROS 6"
+},
+{
+  "name": "Muhammad Fahad Imdad",
+  "country": "Pakistan",
+  "coordinates": [24.8546842, 67.0207055],
+  "photo": "data/images/IFROS/IFROS 6/Muhammad_Fahad.jpg",
+  "info": "Bachelor of Science in Computer Science",
+  "linkedin": "https://www.linkedin.com/in/muhammadfahadimdad/",
+  "program": "IFROS 6"
+},
+{
+  "name": "Quirin Matthias Adnan Zimmer",
+  "country": "Germany",
+  "coordinates": [47.7901433, 11.6857884],
+  "photo": "data/images/IFROS/IFROS 6/Quirin_Zimmer_Germany.jpg",
+  "info": "Production and Automation Technology Engineering",
+  "linkedin": "",
+  "program": "IFROS 6"
+},
+{
+  "name": "Sesath Udukalage",
+  "country": "Sri Lanka",
+  "coordinates": [6.881074, 79.9592689],
+  "photo": "data/images/IFROS/IFROS 6/Sesath_Udukalage_SriLanka.jpg",
+  "info": "Mechanical Engineering",
+  "linkedin": "https://www.linkedin.com/in/sesath-udukalage/",
+  "program": "IFROS 6"
+},
+{
+  "name": "Syed Shayan Ahmed",
+  "country": "Pakistan",
+  "coordinates": [24.8546842, 67.0207055],
+  "photo": "data/images/IFROS/IFROS 6/Syed_Shayan.jpg",
+  "info": "Bachelor of Engineering (Mechanical)",
+  "linkedin": "https://www.linkedin.com/in/syedshayanahmed/",
+  "program": "IFROS 6"
+},
+{
+  "name": "Ismael Bentaleb Ezuitni",
+  "country": "Spain",
+  "coordinates": [39.436668, -0.4656213],
+  "photo": "data/images/IFROS/IFROS 6/Ismael_Bentaleb_Ezuitni.png",
+  "info": "BSc in Robotics Intelligence",
+  "linkedin": "",
+  "program": "IFROS 6"
+},
+{
+  "name": "Md. Rimon Miah",
+  "country": "Bangladesh",
+  "coordinates": [23.8202931, 90.3710408],
+  "photo": "data/images/IFROS/IFROS 6/Md_Rimon_Miah.png",
+  "info": "Bachelor of Science (BSc) in Computer Science and Engineering",
+  "linkedin": "https://www.linkedin.com/in/md-rimon-miah/",
+  "program": "IFROS 6"
 }
   ]
